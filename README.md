@@ -10,6 +10,7 @@ A running log of what I'm reading, what I want to read, and what I've finished.
 | The Elements of Quantitative Investing | Giuseppe A. Paleologo | 2026-07-26 |
 | The Inner Game of Tennis | W. Timothy Gallwey | 2026-07-26 |
 | Pricing and Trading Interest Rate Derivatives | J H M Darbyshire | 2026-07-27 |
+| Forecasting: Principles and Practice | Rob J Hyndman & George Athanasopoulos | 2026-08-16 |
 
 ## Started, Not Finished
 
