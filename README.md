@@ -11,6 +11,7 @@ A running log of what I'm reading, what I want to read, and what I've finished.
 | The Inner Game of Tennis | W. Timothy Gallwey | 2026-07-26 |
 | Pricing and Trading Interest Rate Derivatives | J H M Darbyshire | 2026-07-27 |
 | Forecasting: Principles and Practice | Rob J Hyndman & George Athanasopoulos | 2026-08-16 |
+| The Man Who Solved the Market | Gregory Zuckerman | 2026-11-17 |
 
 ## Started, Not Finished
 
@@ -40,6 +41,7 @@ A running log of what I'm reading, what I want to read, and what I've finished.
 
 | Title | Author | Finished |
 |---|---|---|
+| Central Banking 101 | Joseph J. Wang | 2026-11-17 |
 | The Hundred-Page Language Models Book | Andriy Burkov | 2026-07-19 |
 | The Three-Body Problem | Liu Cixin | 2026-07-12 |
 | The Most Important Thing | Howard Marks | 2026-03 |
